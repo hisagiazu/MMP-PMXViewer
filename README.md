@@ -6,11 +6,8 @@ MikuMikuPenguinプロジェクトのPMXViewerの開発に注力するプロジ�
 当面の目標
 ==========
 
-1. PMXViewerのコードとlibmmpのコードを統合
-2. PMXViewerをqt5Widgets化
-3. PMXViewerをqt5Quick2.0化
-
-まぁ，3は暫定
+* PMXViewerのコードとlibmmpのコードを統合
+* PMXViewerのリファクタリングおよび新機能の追加
 
 ビルド方法
 ==========
@@ -19,7 +16,10 @@ MikuMikuPenguinプロジェクトのPMXViewerの開発に注力するプロジ�
 2. cmake .
 3. make
 
-これだけ
+使い方
+======
+
+./pmx <pmxファイル> <vmdファイル>
 
 依存ライブラリ
 =============
