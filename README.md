@@ -19,7 +19,7 @@ MikuMikuPenguinプロジェクトのPMXViewerの開発に注力するプロジ�
 使い方
 ======
 
-./pmx <pmxファイル> <vmdファイル>
+./pmx pmxファイル vmdファイル
 
 依存ライブラリ
 =============
